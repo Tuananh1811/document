@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586401367 source:d:\dohoamaytinh\bai2\main.cpp
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<bits/stdc++.h>
+
